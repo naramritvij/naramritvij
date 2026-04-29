@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Master's student in Information Systems** at [Northeastern University, Toronto](https://www.northeastern.edu/). With a strong foundation in software development and a growing interest in AI/ML, I focus on building efficient, scalable, and user-friendly solutions — from full-stack web applications to intelligent systems.
+I'm a passionate **Master's student in Information Systems** at [Northeastern University, Toronto](https://www.northeastern.edu/). With a strong foundation in software development and a growing interest in AI/ML, I focus on building efficient, scalable, and user-friendly solutions, from full-stack web applications to intelligent systems.
 
 ---
 
