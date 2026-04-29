@@ -106,7 +106,7 @@ A desktop task management application implementing the MVC pattern with role-bas
 
 ##  Goals
 
-- Secure a **Software Development Internship** for Summer 2025
+- Secure a **Data Scientist or AI/ML Engineer** in 2027
 - Continuously sharpen **problem-solving skills** and **DSA knowledge**
 - Build solutions that have a real-world positive impact
 - Deepen expertise in the **AI/ML domain** alongside full-stack development
